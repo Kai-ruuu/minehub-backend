@@ -4,5 +4,5 @@ app = FastAPI()
 
 @app.get("/")
 def index():
-    return "Running..."
+    return "Ang ganda mo yel!!!"
 
